@@ -1,0 +1,3 @@
+djproject/.venv/
+djproject/poetry.lock
+djproject/djproject/__pycache__/
